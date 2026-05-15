@@ -1,1 +1,1 @@
-# ML-Project
+# ML-Project Here  forcast the Cryptocurrency value using the ARMA family of time-series forecasting models including AR, MA, ARMA, ARIMA, SARIMA,Auto ARIMA and triple exponential smoothing of the Statsmodels library and find the best model based on AIC, BIC, RMSE and LLR values after cleaning the data using various techniques such as differencing, box-cox transformation and data time operations
